@@ -167,7 +167,8 @@ module.exports = {
           ['/integrate/extending-integrations', 'Extending integrations'],
           ['/integrate/integration-guide', 'Integrating e-commerce platform'],
           ['/integrate/cms', 'Integrating CMS platform'],
-          ['/integrate/cache-driver', 'Integrating cache driver']
+          ['/integrate/cache-driver', 'Integrating cache driver'],
+          ['/integrate/payment', 'Integrating payment method']
         ]
       },
       {
